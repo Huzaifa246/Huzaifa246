@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huzaifa246" alt="huzaifa246" /></a> </p>
 
-- 🔭 I’m currently working on [EDGE21 and other project](http://app.edge21.co/)
+- 🔭 I’m currently working on [EDGE21 and other project](http://edge21.co/)
 
 - 🌱 I’m currently learning **NEXT JS and Node Js**
 
