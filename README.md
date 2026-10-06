@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **[1Now](https://1now.ai)** — a fleet management & booking SaaS for car rental hosts (admin dashboard, customer booking flows, and the Django backend)
 
-- 🌱 I’m currently learning **Next.js (App Router), Django/DRF, and GSAP for motion/animation**
+- 🌱 I’m currently exploring the **latest updates and new technologies in Next.js, Django/DRF, and GSAP for motion/animation.**
 
 - 👨‍💻 All of my projects are available at [https://gsap-portfolio-omega.vercel.app/](https://gsap-portfolio-omega.vercel.app/)
 
